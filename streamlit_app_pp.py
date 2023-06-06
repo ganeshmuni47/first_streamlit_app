@@ -1,2 +1,2 @@
 import streamlit
-streamlit.title('Priyanka weds kar')
+streamlit.title('Priyanka Panda')
